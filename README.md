@@ -11,10 +11,15 @@ The Project is developed in python and we used the following cloud service:
 
 This Project needs python and uses the following libraries:
 > Pandas
+
 > Numpy
+
 > Matplotlib
+
 > Scikit-learn
+
 > Seaborn
+
 > Tensorflow
 
 # Code
@@ -24,10 +29,15 @@ The Analysis Code file is saved in **data_analysis.py** for which we have used t
 
 Following Regressions are used:
 > Linear Regression
+
 > LASSO Regression
+
 > Decision Tree Regression
+
 > AdaBoost Regression
+
 > K-Nearest Neighbor Regression
+
 > Random Forest Regression
 
 Out of all the regression, Random Forest showed the most accuracy.
