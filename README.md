@@ -11,6 +11,7 @@ The Project is developed in python and we used the following cloud service:
 
 This Project needs python and uses the following libraries:
 > Pandas
+
 > Numpy
 > Matplotlib
 > Scikit-learn
